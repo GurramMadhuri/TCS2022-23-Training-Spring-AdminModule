@@ -55,10 +55,10 @@ private static final Logger logger = LoggerFactory.getLogger(AdminController.cla
 		 
 	}
 	public void putMethod1() {
-		 studentList.put(1011, new Students(1,"Madhu",1101,1));
-		 studentList.put(1022, new Students(2,"Mani",1102,0));
-		 studentList.put(1033, new Students(3,"Chandra",1103,1));
-		 studentList.put(1044, new Students(4,"SriHari",1104,0));
+		 studentList.put(1011, new Students(1,"Madhuri",1101,1));
+		 studentList.put(1022, new Students(2,"sri",1102,0));
+		 studentList.put(1033, new Students(3,"vijayasri",1103,1));
+		 studentList.put(1044, new Students(4,"Madhu",1104,0));
 		 
 	}
 	public void putMethod2() {
